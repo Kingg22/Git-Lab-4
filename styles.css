@@ -1,0 +1,49 @@
+body {
+  background-color: #65acc5;
+}
+
+.img2 {
+  height: 263px;
+  left: 15px;
+  object-fit: contain;
+  object-position: top;
+  position: absolute;
+  top: 108px;
+  width: 420px;
+  border-radius: 25%;
+}
+
+.text-wrapper {
+  color: #022e4b;
+  font-family: "Inter", Helvetica, sans-serif;
+  font-size: 28px;
+  font-weight: 700;
+  left: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 725px;
+}
+
+.desde-el-este {
+  color: #022e4b;
+  font-family: "Inter", Helvetica, sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  left: 498px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 122px;
+  width: 627px;
+}
+
+.boxes {
+  height: 400px;
+  position: relative;
+  width: 1216px;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-color: #022e4b;
+}
